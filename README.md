@@ -1,3 +1,9 @@
+Medical Appointment System — FastAPI
+
+A fully functional REST API backend for managing doctors, scheduling appointments, and tracking medical consultations — built as part of the Innomatics Research Labs FastAPI Internship (Feb 2026).
+
+
+
 medical-appointment-system/
 ├── main.py               ← All 20 API endpoints (single file)
 ├── requirements.txt      ← Project dependencies
@@ -37,3 +43,5 @@ medical-appointment-system/
     ├── q19_appt_sort.png
     ├── q19_appt_page.png
     ├── q20_browse_all.png
+    └── q20_browse_keyword.png
+
